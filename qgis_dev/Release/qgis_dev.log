@@ -1,0 +1,20 @@
+﻿Build started 2017/7/4 17:17:42.
+     1>Project "F:\qgis_dev_hao\qgis_dev\qgis_dev.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\qgis_dev.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         qgis_dev.vcxproj -> F:\qgis_dev_hao\Release\qgis_dev.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\qgis_dev.unsuccessfulbuild".
+         Touching "Release\qgis_dev.lastbuildstate".
+     1>Done Building Project "F:\qgis_dev_hao\qgis_dev\qgis_dev.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
